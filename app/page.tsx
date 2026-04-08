@@ -119,21 +119,6 @@ export default function HomePage() {
               </Button>
             </div>
 
-            {/* Stats */}
-            <div className="mt-16 grid grid-cols-3 gap-6 border-t border-border pt-8">
-              <div>
-                <div className="font-serif text-3xl font-bold text-foreground">50+</div>
-                <div className="mt-1 text-sm text-muted-foreground">Her</div>
-              </div>
-              <div>
-                <div className="font-serif text-3xl font-bold text-foreground">100+</div>
-                <div className="mt-1 text-sm text-muted-foreground">Článků</div>
-              </div>
-              <div>
-                <div className="font-serif text-3xl font-bold text-foreground">2025</div>
-                <div className="mt-1 text-sm text-muted-foreground">Založeno</div>
-              </div>
-            </div>
           </div>
 
           {/* Right side - Floating game cards */}

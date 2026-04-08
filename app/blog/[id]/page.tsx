@@ -235,10 +235,6 @@ export default async function BlogPostPage({ params }: PageProps) {
                 <span className="font-medium">{post.readTime} čtení</span>
               </div>
               <div className="h-1 w-1 rounded-full bg-muted-foreground" />
-              <button className="flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground">
-                <Share2 className="h-4 w-4" />
-                Sdílet
-              </button>
             </div>
           </div>
         </div>
@@ -283,10 +279,6 @@ export default async function BlogPostPage({ params }: PageProps) {
             <p className="text-sm text-muted-foreground">
               Líbil se vám tento článek? Sdílejte ho s přáteli!
             </p>
-            <button className="flex items-center gap-2 rounded-full border border-border bg-background px-6 py-2.5 text-sm font-medium transition-all hover:border-primary hover:bg-primary/5">
-              <Share2 className="h-4 w-4" />
-              Sdílet článek
-            </button>
           </div>
         </div>
       </article>
