@@ -145,7 +145,7 @@ export default function AboutPage() {
       {/* Story */}
       <section className="border-b border-border/40 bg-card py-20 lg:py-28">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="grid gap-12 lg:grid-cols-2 lg:gap-16">
+          <div className="grid gap-12 lg:grid-cols-1 lg:gap-16">
             <div>
               <h2 className="font-serif text-3xl font-bold text-foreground md:text-4xl">
                 Náš Příběh
