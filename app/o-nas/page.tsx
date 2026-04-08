@@ -162,29 +162,6 @@ export default function AboutPage() {
                 </p>
               </div>
             </div>
-
-            <div className="grid grid-cols-2 gap-6">
-              <div className="rounded-2xl border border-border/40 bg-background p-6">
-                <div className="font-serif text-4xl font-bold text-primary">50+</div>
-                <div className="mt-2 text-sm text-muted-foreground">Her v Katalogu</div>
-              </div>
-              <div className="rounded-2xl border border-border/40 bg-background p-6">
-                <div className="font-serif text-4xl font-bold text-primary">100+</div>
-                <div className="mt-2 text-sm text-muted-foreground">Publikovaných Článků</div>
-              </div>
-              <div className="rounded-2xl border border-border/40 bg-background p-6">
-                <div className="font-serif text-4xl font-bold text-primary">500+</div>
-                <div className="mt-2 text-sm text-muted-foreground">Herních Strategií</div>
-              </div>
-              <div className="rounded-2xl border border-border/40 bg-background p-6">
-                <div className="font-serif text-4xl font-bold text-primary">2024</div>
-                <div className="mt-2 text-sm text-muted-foreground">Rok Založení</div>
-              </div>
-              <div className="col-span-2 rounded-2xl border border-border/40 bg-background p-6">
-                <div className="font-serif text-4xl font-bold text-primary">∞</div>
-                <div className="mt-2 text-sm text-muted-foreground">Nadšení pro Deskové Hry</div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
